@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <title>TITLE</title>
+</head>
+
+<body>
+    <ul>
+        <li style="color:red">Python Wang</li>
+        <li style="color:red">Python Haigang</li>
+        <li> Python and the ability to change the world</li>
+    </ul>
+
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <title>TITLE</title>
+     <style type="text/css">
+            li {color: red}
+     </style> 
+</head>
+
+<body>
+    <ul>
+        <li style="color:red">Python Wang</li>
+        <li style="color:red">Python Haigang</li>
+        <li> Python and the ability to change the world</li>
+    </ul>
+
+</body>
+</html>
